@@ -25,4 +25,6 @@ Other notes:
 AppWizard uses "TODO:" comments to indicate parts of the source code you
 should add to or customize.
 
+When cloning, make sure to get the submodules with `git submodule update` and `git clone --recursive`
+
 /////////////////////////////////////////////////////////////////////////////
